@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+log/
+*.log
+
+# Model checkpoints
+checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/ 
